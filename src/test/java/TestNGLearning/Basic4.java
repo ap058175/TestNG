@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Basic4 {
     @Test(groups = "Smoke")
     public void webloginCarLoan() {
-        System.out.println("This is a web login test method. for Car Loan.");
+        System.out.println("This is a web login test method.. for Car Loan.");
     }
     @Test
     public void mobileloginCarLoan() {
